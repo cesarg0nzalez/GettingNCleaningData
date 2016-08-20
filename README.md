@@ -18,7 +18,7 @@ Few steps were taken to transform de dataset downloaded from the URL indicated.
 > - Run_analisys.R. The R script have the steps necessary to perform the required work
 > - Codebook. This file contains all codes and variable names that appear in the dataset
 
-We requiere to submit
+#### <i class="icon-file"></i>We requiere to submit
 >-A tidy data set
 >-A link to a Github repository containing all project files
 >-A code book with the explanation of each and every one of the variables and the keys used
