@@ -19,10 +19,10 @@ Few steps were taken to transform de dataset downloaded from the URL indicated.
 > - Codebook. This file contains all codes and variable names that appear in the dataset
 
 We requiere to submit
-A tidy data set
-A link to a Github repository containing all project files
-A code book with the explanation of each and every one of the variables and the keys used
-A brief explanation of the script
+>-A tidy data set
+>-A link to a Github repository containing all project files
+>-A code book with the explanation of each and every one of the variables and the keys used
+>-A brief explanation of the script
 
 #### <i class="icon-file"></i>Explanation of script
 
